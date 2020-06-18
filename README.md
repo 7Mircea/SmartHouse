@@ -10,6 +10,6 @@ tensiunea măsurată de Arduino pentru fiecare dintre ele. Atunci când cantitat
  pe fiecare element este egală și tensiunile măsurate sunt egale(în limita unei toleranțe). Pentru 
  aducerea platformei solare în poziția optimă sunt folosite două servomotoare care oferă astfel
  două grade de libertate și care sunt comandate de pe pinii digitali.<br/>
- Programul este scris in C++ si ruleaza pe un Arduino Uno. Avantejele acestui proiect sunt date de 
- consumul redus al microcontrolerului comparativ cu faptul ca se permite utilizarea la maxima luminii
+ Programul este scris in C++ și rulează pe un Arduino Uno. Avantejele acestui proiect sunt date de 
+ consumul redus al microcontrolerului comparativ cu faptul că se permite utilizarea la maxim a luminii
  solare.
