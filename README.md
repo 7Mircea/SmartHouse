@@ -1,4 +1,5 @@
 # SMART HOUSE
+Proiectul este mai larg fiind realizat in echipa. Aici se afla partea de captare a luminii solare.
 ## Energie solara
 Partea de energie solară este reprezentată de o platformă cu plăcuțe fotovoltaice(simbolice) care 
 are în centru 4 fotorezistoare și o structură în formă de cruce ce are rolul de a ajuta în stabilirea 
