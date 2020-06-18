@@ -1,4 +1,3 @@
-
 #include <Servo.h> // include Servo library 
 
 Servo horizontal; // horizontal servo
@@ -90,4 +89,3 @@ void loop()
   }
    delay(dtime); 
 }
-
